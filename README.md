@@ -1,1 +1,1 @@
-# learning_github
+# learning and understanding github
